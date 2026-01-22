@@ -78,22 +78,18 @@
         <br>Vue
       </td>
       <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="50" height="50" alt="Nuxt" />
-        <br>Nuxt
-      </td>
-      <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
         <br>Angular
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="figma" />
+        <br>figma
       </td>
     </tr>
     <tr>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
         <br>Node.js
-      </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
-        <br>Express
       </td>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="Python" />
@@ -127,12 +123,12 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
         <br>MongoDB
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
         <br>PostgreSQL
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase" />
         <br>Supabase
@@ -154,10 +150,6 @@
         <br>Kubernetes
       </td>
       <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=shopify" width="50" height="50" alt="Shopify" />
-        <br>Shopify
-      </td>
-      <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" alt="WordPress" />
         <br>WordPress
       </td>
@@ -168,6 +160,14 @@
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
         <br>GitHub
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="Githubactions" />
+        <br>GitHub Actions
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="AI" />
+        <br>AI
       </td>
     </tr>
   </table>
