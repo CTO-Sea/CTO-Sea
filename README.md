@@ -81,10 +81,6 @@
         <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
         <br>Angular
       </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="figma" />
-        <br>figma
-      </td>
     </tr>
     <tr>
       <td align="center" width="50">
@@ -98,14 +94,6 @@
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" />
         <br>Django
-      </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" />
-        <br>FastAPI
-      </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" />
-        <br>Flask
       </td>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
@@ -126,6 +114,14 @@
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
         <br>PostgreSQL
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="AI" />
+        <br>AI
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="figma" />
+        <br>figma
       </td>
     </tr>
     <tr>
@@ -164,10 +160,6 @@
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="Githubactions" />
         <br>GitHub Actions
-      </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="AI" />
-        <br>AI
       </td>
     </tr>
   </table>
