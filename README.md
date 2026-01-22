@@ -119,10 +119,6 @@
         <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="AI" />
         <br>AI
       </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="figma" />
-        <br>figma
-      </td>
     </tr>
     <tr>
       <td align="center" width="50">
