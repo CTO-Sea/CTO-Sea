@@ -1,6 +1,6 @@
 ### About Me
 
-- 🚀 Senior Full-Stack Developer with **6+ years of experience** designing and building scalable, high-performance Web applications.
+- 🚀 Senior Full-Stack Developer with **8+ years of experience** designing and building scalable, high-performance Web applications.
 - 🌍 Worked with **startups and global product teams**, delivering production-grade platforms from concept to deployment.
 - 💡 Specialized in **JavaScript/TypeScript**, **Python**, and **modern frameworks** like React, Next.js, Vue and Django.
 - ☁️ Hands-on experience with **DevOps**, **CI/CD**, and **cloud infrastructure** — AWS and Googld Cloud.
